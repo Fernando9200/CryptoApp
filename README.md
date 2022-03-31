@@ -1,4 +1,4 @@
-# coincap
+# CryptoApp
 
 A new Flutter project.
 
