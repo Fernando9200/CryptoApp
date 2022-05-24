@@ -35,4 +35,4 @@ flutter run
 
 ## Deploy
 
-You can deploy your app using Heroku or any other Cloud Application.
+You can deploy your app in Android or iOS.
