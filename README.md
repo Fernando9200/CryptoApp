@@ -21,7 +21,7 @@ To start development, you need to clone the GitHub project in a directory of you
 
 ```shell
 cd "directory of your choice"
-git clone https://github.com/condessalovelace/mavenquickstart
+git clone https://github.com/Fernando9200/CryptoApp.git
 ```
 
 ## Build
@@ -35,4 +35,4 @@ flutter run
 
 ## Deploy
 
-You can deploy your app in Android and iOS.
+You can deploy your app using Heroku or any other Cloud Application.
